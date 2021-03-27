@@ -65,4 +65,4 @@ void CustomScan::receiveThreatInfo(ThreatInfo info)
     ui->customScan_threatTable->insertRow(ui->customScan_threatTable->rowCount());
     ui->customScan_threatTable->setItem(ui->customScan_threatTable->rowCount()-1, 0, new QTableWidgetItem(info.getThreatName()));
     ui->customScan_threatTable->setItem(ui->customScan_threatTable->rowCount()-1, 1, new QTableWidgetItem(info.getThreatLocation()));
-}
+} 
