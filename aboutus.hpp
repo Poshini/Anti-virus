@@ -19,4 +19,4 @@ private:
     Ui::AboutUs *ui;
 };
 
-#endif // ABOUTUS_HPP
+#endif // ABOUTUS_HPP 
