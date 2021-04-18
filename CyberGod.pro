@@ -1,7 +1,7 @@
 #-------------------------------------------------
 #
 # Project created by QtCreator
-#
+# 
 #-------------------------------------------------
 
 QT       += core gui sql network concurrent
